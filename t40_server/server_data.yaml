@@ -8,9 +8,9 @@ server:
   https_port: "443:443"
   domain: "my-points.ru"
   subdomain:
-    api: "api4"
-    web: "web4"
-    insights: "insights4"
+    api: "api40"
+    web: "web40"
+    insights: "insights40"
   email: "frolprank@gmail.com"
   
 database:
