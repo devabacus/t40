@@ -23,7 +23,7 @@ spec:
     app.kubernetes.io/managed-by: Helm
     app.kubernetes.io/name: ingress-nginx
     app.kubernetes.io/part-of: ingress-nginx
-    # app.kubernetes.io/version: "1.12.1"
-    # controller-revision-hash: 55bbc9f9bd
-    # helm.sh/chart: ingress-nginx-4.12.1
-    # pod-template-generation: "1"
+    app.kubernetes.io/version: "1.12.1"
+    controller-revision-hash: 55bbc9f9bd
+    helm.sh/chart: ingress-nginx-4.12.1
+    pod-template-generation: "1"
